@@ -60,8 +60,8 @@ This project reflects my long-term goal of creating **clean, reusable, and well-
 
 ## 🎯 Goals for 2026
 
-- ➖ Expand BoxLib with additional modular systems and publsh it on Wally
-- ❌ Improve documentation and developer experience
+- ➖ Expand BoxLib with additional modular systems and publish it on Wally
+- ❌ Learn to write and manage software documentation
 - ❌ Deepen my understanding of software architecture and data structures
 - ❌ Contribute to open-source projects and software
 - ❌ Learn PyTorch and implement a basic digit recognition model using neural networks
