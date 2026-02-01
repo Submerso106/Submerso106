@@ -19,7 +19,6 @@ I fell in love with programming in **2024**, when I tried to create my first gam
 
 ## 🤝 Soft Skills
 
-- Teamwork  
 - Fast learner  
 - Creativity  
 - Problem-solving mindset  
@@ -63,7 +62,7 @@ This project reflects my long-term goal of creating **clean, reusable, and well-
 - ➖ Expand BoxLib with additional modular systems and publish it on Wally
 - ❌ Learn to write and manage software documentation
 - ❌ Deepen my understanding of software architecture and data structures
-- ❌ Contribute to open-source projects and software
+- ➖ Contribute to open-source projects and software
 - ❌ Learn PyTorch and implement a basic digit recognition model using neural networks
 
 ---
