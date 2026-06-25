@@ -19,13 +19,15 @@ I fell in love with programming in **2024**, when I tried to create my first gam
 
 My primary language is **Luau**, as I started programming on Roblox. Over time, I’ve developed a strong interest in **code organization, modular design, and reusable systems**.
 
+Lately I'm focusing on plugin development for **Blender** using **Python**, so I can learn how to work in different enviroments and develop new skills.
+
 I’m constantly challenging myself to learn:
 - Software architecture
 - Git
-- Tools such as Obsidian
+- Online Tools
 - Open Source Projects
 
 ---
 
-Feel free to explore my repositories and use any piece of code you dind helpfull!
+Feel free to explore my repositories and use any piece of code you find helpfull!
 Always learning!
